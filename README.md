@@ -3,7 +3,7 @@
 Este é um projeto desenvolvido como parte da disciplina de Banco de Dados da PUC Minas. Consiste em um sistema de login utilizando a plataforma Firebase, permitindo aos usuários realizar cadastro e acesso direto.
 
 ### Funcionalidades: 
-- Cadastro de usuários com e-maile senha.
+- Cadastro de usuários com e-mail e senha.
 - Autentificação de usuários registrados.
 
 ### Tecnologias Utilizadas
