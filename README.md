@@ -26,8 +26,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue caso e
 
 ## Licença
 
-Este projeto é licenciado sob a Licença Creative Commons Zero v1.0 Universal. Para obter uma cópia desta licença, consulte o arquivo [LICENSE](LICENSE) ou visite [https://creativecommons.org/publicdomain/zero/1.0/legalcode](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
-
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
 
