@@ -20,9 +20,14 @@ Este é um projeto desenvolvido como parte da disciplina de Banco de Dados da PU
 
 [Vídeo Funcionalidade Front + funcionalidade](//Videos%20de%20funcionalidade/Front%20+%20funcionalidade.mkv)
 
-### Contribuindo
+## Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue caso encontre algum problema ou para propor melhorias.
+
+## Licença
+
+Este projeto é licenciado sob a Licença Creative Commons Zero v1.0 Universal. Para obter uma cópia desta licença, consulte o arquivo [LICENSE](LICENSE) ou visite [https://creativecommons.org/publicdomain/zero/1.0/legalcode](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+
 
 
 
