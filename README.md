@@ -14,10 +14,6 @@ Este é um projeto desenvolvido como parte da disciplina de Banco de Dados da PU
 
 ## Demonstração
 
-[Vídeo Funcionalidade App Firebase](/Videos%20de%20funcionalidade/App%20Firebase.mkv)
-
-[Vídeo Funcionalidade Conexões estabelecidas](/Videos%20de%20funcionalidade/Conexões%20estabelcidadas.mkv)
-
 [Vídeo Funcionalidade Front + funcionalidade](//Videos%20de%20funcionalidade/Front%20+%20funcionalidade.mkv)
 
 ## Contribuindo
