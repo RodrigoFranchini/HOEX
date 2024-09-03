@@ -14,7 +14,7 @@ Este é um projeto desenvolvido como parte da disciplina de Banco de Dados da PU
 
 ## Demonstração
 
-[Vídeo Funcionalidade Front + funcionalidade](//Videos%20de%20funcionalidade/Front%20+%20funcionalidade.mkv)
+[Vídeo Funcionalidade](//Videos%20de%20funcionalidade/Front%20+%20funcionalidade.mkv)
 
 ## Contribuindo
 
