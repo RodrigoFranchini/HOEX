@@ -14,7 +14,7 @@ Este é um projeto desenvolvido como parte da disciplina de Banco de Dados da PU
 
 ## Demonstração
 
-[Vídeo Funcionalidade]([https://github.com/RodrigoFranchini/HOEX/blob/main/Videos%20de%20funcionalidade/Front%20%2B%20funcionalidade.mkv])
+[Vídeo Funcionalidade](https://github.com/RodrigoFranchini/HOEX/blob/main/Videos%20de%20funcionalidade/Front%20%2B%20funcionalidade.mkv)
 
 ## Contribuindo
 
